@@ -1,1 +1,1 @@
-# Project_MRI
+# Project_MRI_Classification
